@@ -43,7 +43,7 @@
                 android:layout_below="@id/logo"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/search_bg"
-                android:drawableStart="@drawable/search"
+                android:drawableStart="@drawable/search_bg"
                 android:drawablePadding="10dp"
                 android:hint="Search for patients..."
                 android:paddingStart="15dp" />
